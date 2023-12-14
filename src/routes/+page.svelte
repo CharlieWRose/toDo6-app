@@ -1,5 +1,5 @@
 <script lang="ts">
-    import type { Task } from "../lib/index";
+    import type { Task } from "../lib/types";
 
     let progressTasks: Task[] = []
     let completedTasks: Task[] = []
